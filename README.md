@@ -1,6 +1,5 @@
 # DelGrau
 
-<h2>Seja Bem Vindo</h2>
 <p>Pode me chamar de Alan</p>
 
 <dl>
