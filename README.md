@@ -1,16 +1,30 @@
-<h1>Seja Bem Vindo</h1>
-<p>Pode me chamar de Alan</p>
-
 # DelGrau
 
-<h3>Suporte na empresa iSoft Sistemas</h3>
+<h2>Seja Bem Vindo</h2>
+<p>Pode me chamar de Alan</p>
+
+<dl>
+    <dt><b>O que eu Faço</b></dt>
+        <dd>- Sou estudante de ADS na Unipar</dd>
+        <dd>- Sou Suporte na empresa iSoft Sistemas</dd>
+    <dt><b>Estudando alguma coisa?</b></dt>
+        <dd>- Estudando Java</dd>
+        <dd>- Estudando Python</dd>
+</dl>
+
+<!-- # DelGrau
+<h2>Seja Bem Vindo</h2>
+<p>Pode me chamar de Alan</p>
+-
+<h3>O que eu Faço</h3>
+<ul>
+    <li>Sou Suporte na empresa iSoft Sistemas</li>
+</ul>
 <h3>Aprendendo Python e Java</h3>
-
-<!--
 **DelGrau/DelGrau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-
 Here are some ideas to get you started:
-
+-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
