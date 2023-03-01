@@ -8,7 +8,7 @@
          
 <dt><h4>O que eu Faço</h4></dt>
 <dd>- Sou estudante de ADS na Unipar 📚</dd>
-<dd>- Sou Suporte na empresa iSoft Sistemas 🤓</dd>
+<dd>- Sou Suporte na empresa Ecocentauro 🌎</dd>
 
 <dt><h4>Estudando alguma coisa?</h4></dt>
 <dd>- Estudando Java ☕</dd>
