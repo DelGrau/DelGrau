@@ -15,4 +15,4 @@ Transformando o mundo em um lugar melhor, começando por mim...
 - Python 🐍
 - Dart + Flutter 📱
 - Rust 🦀
-- React + JS⚛️
+- React + JS ⚛️
